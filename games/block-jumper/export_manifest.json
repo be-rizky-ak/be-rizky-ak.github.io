@@ -1,0 +1,15 @@
+{
+  "project": "BlockJumper",
+  "version": "1.0.0",
+  "target": "BlockJumper",
+  "config": "Release",
+  "timestamp": "2026-11-13T07:35:35Z",
+  "git_commit": "fddb954f2b540df9fafa1a5908e9057d6a0c1b7d",
+  "artifacts": {
+    "index.html": "2bf34b8fb08688d09156980c73358ec9fcbb9fc8041075a59b9006354071a830",
+    "BlockJumper.html": "2bf34b8fb08688d09156980c73358ec9fcbb9fc8041075a59b9006354071a830",
+    "BlockJumper.js": "6d13109cd52ccf64c5d23e2c8f6a6be99f875a5245f7e30cda51ffc7d30ef53b",
+    "BlockJumper.wasm": "82a093788a14462641e62269ae22a3c63f54edbbfd41362475e49deaa7d8b714",
+    "BlockJumper.data": "3199ea3e3c61a6775b507c46e8f8c2e43bb5eb3abd7a211ff16159cdc89f997b"
+  }
+}
